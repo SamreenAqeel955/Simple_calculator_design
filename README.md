@@ -1,22 +1,17 @@
-# Simple_calculator_design
-This project features a simple calculator design created with HTML and CSS. It offers a sleek user interface for performing basic arithmetic operations: addition, subtraction, multiplication, and division. This project is perfect for learning the basics of front-end web development and UI/UX design.
+This project showcases a simple calculator design built using HTML and CSS. The calculator provides a sleek and modern user interface, allowing users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It is an ideal project for those looking to understand the fundamentals of front-end web development and UI/UX design
 ## Installation Instructions
 
-Clone the Repository:
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/Simple_calculator_design.git
 cd Simple_calculator_design
 
 ### 2. **Usage Guide**
 
-Explain how users can interact with the calculator.
+Explain how users can interact with the calculator UI.
 
 ```markdown
-## Usage Guide
-- Basic Operations: Click the numeric buttons to input numbers and use the operation buttons (`+`, `-`, `*`, `/`) to perform calculations.
-- Clear Entry: Use the `C` button to clear the current entry.
-- Calculate: Click the `=` button to display the result of the operation.
-
 ## Technologies Used
-- HTML5: Provides the structure for the calculator.
-- CSS3: Adds style and design to the calculator.
+
+- **HTML5**: Provides the structure for the calculator.
+- **CSS3**: Adds style and design to the calculator.
