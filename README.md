@@ -9,15 +9,14 @@ cd Simple_calculator_design
 
 ### 2. **Usage Guide**
 
-Explain how users can interact with the calculator and describe its functionality.
+Explain how users can interact with the calculator.
 
 ```markdown
 ## Usage Guide
-
 - Basic Operations: Click the numeric buttons to input numbers and use the operation buttons (`+`, `-`, `*`, `/`) to perform calculations.
 - Clear Entry: Use the `C` button to clear the current entry.
 - Calculate: Click the `=` button to display the result of the operation.
-## Technologies Used
 
+## Technologies Used
 - HTML5: Provides the structure for the calculator.
 - CSS3: Adds style and design to the calculator.
