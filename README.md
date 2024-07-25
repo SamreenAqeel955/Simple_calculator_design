@@ -3,7 +3,7 @@ This project showcases a simple calculator design built using HTML and CSS. The 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Simple_calculator_design.git
+   git clone https://github.com/SamreenAqeel955/Simple_calculator_design.git
 cd Simple_calculator_design
 
 ### 2. **Usage Guide**
