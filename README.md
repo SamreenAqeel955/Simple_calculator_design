@@ -19,5 +19,5 @@ Explain how users can interact with the calculator and describe its functionalit
 - **Calculate**: Click the `=` button to display the result of the operation.
 ## Technologies Used
 
-- **HTML5**: Provides the structure for the calculator.
-- **CSS3**: Adds style and design to the calculator.
+- HTML5: Provides the structure for the calculator.
+- CSS3: Adds style and design to the calculator.
